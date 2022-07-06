@@ -534,4 +534,7 @@
         <item>930</item> <!--item>sensorLocationY</item-->
         <item>150</item> <!--item>sensorRadius</item-->
     </array>
+
+    <!-- Whether the display blanks itself when transitioning from a doze to a non-doze state -->
+    <bool name="config_displayBlanksAfterDoze">true</bool>
 </resources>
